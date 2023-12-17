@@ -12,6 +12,9 @@ gems:
     - jekyll-paginate
     - jekyll-compose
     - jekyll-assets
+    - jekyll-plantuml
+    - jekyll-asciidoc
+    - asciidoctor-diagram
     - RedCloth
     - kramdown
     - jemoji
